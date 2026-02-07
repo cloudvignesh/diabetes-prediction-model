@@ -1,6 +1,11 @@
 name: Build and Push the Docker Image to DockerHub
 on:
   workflow_dispatch:
+    inputs:
+      run_number:
+        description: 'Run number for the Docker image tag'
+        required: true
+        default: 'build-model'
 
 run-name: build-and-push
 
