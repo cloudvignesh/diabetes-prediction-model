@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       run_number:
-        description: 'Run number for the Docker image tag'
+        description: 'Run action to build model'
         required: true
         default: 'build-model'
 
