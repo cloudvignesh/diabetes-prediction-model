@@ -101,4 +101,6 @@ kubectl apply -f manifests/deployment.yaml
 
 **Built by [cloudvignesh](https://github.com/cloudvignesh)**
 
-**Built by** [<img src="https://github.com/cloudvignesh.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> **cloudvignesh**](https://github.com/cloudvignesh)
+---
+
+**Built by [cloudvignesh](https://github.com/cloudvignesh)** <img src="https://github.com/cloudvignesh.png" width="22" height="22" style="border-radius: 50%; vertical-align: middle;">
