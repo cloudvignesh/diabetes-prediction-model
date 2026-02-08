@@ -9,7 +9,7 @@ This project helps to predicting whether a person is diabetic based on health me
 - Kubernetes Deployment
 
 ## Model Workflow
-![architecture](assets/screenshots/workflow.png)
+![architecture](assets/screenshots/workflow_arch.png)
 
 ## Problem Statement
 Predict if a person is diabetic based on:
