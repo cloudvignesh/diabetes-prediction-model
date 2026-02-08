@@ -103,9 +103,8 @@ kubectl apply -f manifests/deployment.yaml
 
 ---
 
-**Built by** <a href="https://github.com/cloudvignesh"><b>cloudvignesh</b> <img src="https://github.com/cloudvignesh.png" width="20" height="20" style="border-radius: 50%; vertical-align: text-bottom; margin-left: 3px;"></a>
+**Built by [cloudvignesh](https://github.com/cloudvignesh)** <img src="https://github.com/cloudvignesh.png" width="20" height="20" style="border-radius: 50%; vertical-align: text-bottom; margin-left: 4px;">
 
-<div style="display: inline-flex; align-items: center; gap: 6px;">
-  <b>Built by <a href="https://github.com/cloudvignesh">cloudvignesh</a></b>
-  <img src="https://github.com/cloudvignesh.png" width="20" height="20" style="border-radius: 50%;">
-</div>
+<b>Built by <a href="https://github.com/cloudvignesh">cloudvignesh <img src="https://github.com/cloudvignesh.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"></a></b>
+
+**Built by** <img src="https://github.com/cloudvignesh.png" width="22" height="22" style="border-radius: 50%; vertical-align: middle;"> **[cloudvignesh](https://github.com/cloudvignesh)**
