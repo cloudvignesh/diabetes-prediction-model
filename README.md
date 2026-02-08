@@ -74,8 +74,8 @@ docker build -t diabetes-prediction-model .
 ```bash
 docker run -p 8000:8000 diabetes-prediction-model
 ```
-## Follow the below steps to deploy the flask app into Kubernetes
-Either you can use minikube or kind to run the kubernetes cluster locally. (or) Go with Cloud Managed Service like EKS or AKS.
+## Deploy to Kubernetes
+Either you can use minikube or docker kind to run the kubernetes cluster locally.
 ```bash
 kubectl apply -f manifests/deployment.yaml
 ```
