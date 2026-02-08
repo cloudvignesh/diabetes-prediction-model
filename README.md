@@ -97,3 +97,6 @@ kubectl apply -f manifests/deployment.yaml
 
 4. The Docker image will be pushed to Docker Hub (Use any remote repository)
 5. Final: Implement the GitOps method for Pull based deployment in Kubernetes. Refer this [repository](https://github.com/cloudvignesh/argocd-todo-stack) for Implementation. (For Production workload, go with managed kubernetes services from any cloud providers)
+---
+
+**Built by [cloudvignesh](https://github.com/cloudvignesh)**
