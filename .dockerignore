@@ -1,2 +1,6 @@
-.git
-README.md
+.venv/
+.mlops/
+__pycache__/
+*.pyc
+.git/
+.env
